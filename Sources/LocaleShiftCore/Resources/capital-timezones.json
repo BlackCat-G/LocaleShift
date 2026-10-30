@@ -1,0 +1,227 @@
+{
+  "AR": {
+    "city": "布宜诺斯艾利斯",
+    "timeZone": "America/Argentina/Buenos_Aires",
+    "kind": "首都"
+  },
+  "AU": {
+    "city": "堪培拉",
+    "timeZone": "Australia/Sydney",
+    "kind": "首都"
+  },
+  "BR": {
+    "city": "巴西利亚",
+    "timeZone": "America/Sao_Paulo",
+    "kind": "首都"
+  },
+  "CA": {
+    "city": "渥太华",
+    "timeZone": "America/Toronto",
+    "kind": "首都"
+  },
+  "CD": {
+    "city": "金沙萨",
+    "timeZone": "Africa/Kinshasa",
+    "kind": "首都"
+  },
+  "CL": {
+    "city": "圣地亚哥",
+    "timeZone": "America/Santiago",
+    "kind": "首都"
+  },
+  "CN": {
+    "city": "北京",
+    "timeZone": "Asia/Shanghai",
+    "kind": "首都"
+  },
+  "CY": {
+    "city": "尼科西亚",
+    "timeZone": "Asia/Nicosia",
+    "kind": "首都"
+  },
+  "DE": {
+    "city": "柏林",
+    "timeZone": "Europe/Berlin",
+    "kind": "首都"
+  },
+  "EC": {
+    "city": "基多",
+    "timeZone": "America/Guayaquil",
+    "kind": "首都"
+  },
+  "ES": {
+    "city": "马德里",
+    "timeZone": "Europe/Madrid",
+    "kind": "首都"
+  },
+  "FM": {
+    "city": "帕利基尔",
+    "timeZone": "Pacific/Pohnpei",
+    "kind": "首都"
+  },
+  "GL": {
+    "city": "努克",
+    "timeZone": "America/Nuuk",
+    "kind": "行政中心"
+  },
+  "ID": {
+    "city": "雅加达",
+    "timeZone": "Asia/Jakarta",
+    "kind": "首都"
+  },
+  "KI": {
+    "city": "南塔拉瓦",
+    "timeZone": "Pacific/Tarawa",
+    "kind": "首都"
+  },
+  "KZ": {
+    "city": "阿斯塔纳",
+    "timeZone": "Asia/Almaty",
+    "kind": "首都"
+  },
+  "MH": {
+    "city": "马朱罗",
+    "timeZone": "Pacific/Majuro",
+    "kind": "首都"
+  },
+  "MN": {
+    "city": "乌兰巴托",
+    "timeZone": "Asia/Ulaanbaatar",
+    "kind": "首都"
+  },
+  "MX": {
+    "city": "墨西哥城",
+    "timeZone": "America/Mexico_City",
+    "kind": "首都"
+  },
+  "MY": {
+    "city": "吉隆坡",
+    "timeZone": "Asia/Kuala_Lumpur",
+    "kind": "首都"
+  },
+  "NZ": {
+    "city": "惠灵顿",
+    "timeZone": "Pacific/Auckland",
+    "kind": "首都"
+  },
+  "PF": {
+    "city": "帕皮提",
+    "timeZone": "Pacific/Tahiti",
+    "kind": "行政中心"
+  },
+  "PG": {
+    "city": "莫尔兹比港",
+    "timeZone": "Pacific/Port_Moresby",
+    "kind": "首都"
+  },
+  "PT": {
+    "city": "里斯本",
+    "timeZone": "Europe/Lisbon",
+    "kind": "首都"
+  },
+  "RU": {
+    "city": "莫斯科",
+    "timeZone": "Europe/Moscow",
+    "kind": "首都"
+  },
+  "UA": {
+    "city": "基辅",
+    "timeZone": "Europe/Kyiv",
+    "kind": "首都"
+  },
+  "US": {
+    "city": "华盛顿",
+    "timeZone": "America/New_York",
+    "kind": "首都"
+  },
+  "UZ": {
+    "city": "塔什干",
+    "timeZone": "Asia/Tashkent",
+    "kind": "首都"
+  },
+  "JP": {
+    "city": "东京",
+    "timeZone": "Asia/Tokyo",
+    "kind": "首都"
+  },
+  "GB": {
+    "city": "伦敦",
+    "timeZone": "Europe/London",
+    "kind": "首都"
+  },
+  "FR": {
+    "city": "巴黎",
+    "timeZone": "Europe/Paris",
+    "kind": "首都"
+  },
+  "KR": {
+    "city": "首尔",
+    "timeZone": "Asia/Seoul",
+    "kind": "首都"
+  },
+  "TH": {
+    "city": "曼谷",
+    "timeZone": "Asia/Bangkok",
+    "kind": "首都"
+  },
+  "VN": {
+    "city": "河内",
+    "timeZone": "Asia/Ho_Chi_Minh",
+    "kind": "首都"
+  },
+  "IN": {
+    "city": "新德里",
+    "timeZone": "Asia/Kolkata",
+    "kind": "首都"
+  },
+  "TW": {
+    "city": "台北",
+    "timeZone": "Asia/Taipei",
+    "kind": "行政中心"
+  },
+  "HK": {
+    "city": "香港",
+    "timeZone": "Asia/Hong_Kong",
+    "kind": "行政中心"
+  },
+  "SG": {
+    "city": "新加坡",
+    "timeZone": "Asia/Singapore",
+    "kind": "首都"
+  },
+  "IT": {
+    "city": "罗马",
+    "timeZone": "Europe/Rome",
+    "kind": "首都"
+  },
+  "AT": {
+    "city": "维也纳",
+    "timeZone": "Europe/Vienna",
+    "kind": "首都"
+  },
+  "CH": {
+    "city": "伯尔尼",
+    "timeZone": "Europe/Zurich",
+    "kind": "行政中心"
+  },
+  "ZA": {
+    "city": "比勒陀利亚",
+    "timeZone": "Africa/Johannesburg",
+    "kind": "行政首都"
+  },
+  "AE": {
+    "city": "阿布扎比",
+    "timeZone": "Asia/Dubai",
+    "kind": "首都"
+  },
+  "SA": {
+    "city": "利雅得",
+    "timeZone": "Asia/Riyadh",
+    "kind": "首都"
+  },
+  "EG": {
+    "city": "开罗",
+    "timeZone": "Africa/Cairo",
+    "kind": "首都"
+  }
+}

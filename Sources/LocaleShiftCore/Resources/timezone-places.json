@@ -1,0 +1,942 @@
+{
+  "version": "2026-10-13",
+  "US": [
+    {
+      "code": "AL",
+      "name": "阿拉巴马州",
+      "aliases": [
+        "Alabama",
+        "AL",
+        "US-AL"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Chicago",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "AR",
+      "name": "阿肯色州",
+      "aliases": [
+        "Arkansas",
+        "AR",
+        "US-AR"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Chicago",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "CA",
+      "name": "加利福尼亚州",
+      "aliases": [
+        "California",
+        "CA",
+        "US-CA",
+        "加州",
+        "旧金山",
+        "San Francisco",
+        "圣何塞",
+        "San Jose",
+        "洛杉矶",
+        "Los Angeles",
+        "里士满",
+        "Richmond"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Los_Angeles",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "CO",
+      "name": "科罗拉多州",
+      "aliases": [
+        "Colorado",
+        "CO",
+        "US-CO"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Denver",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "CT",
+      "name": "康涅狄格州",
+      "aliases": [
+        "Connecticut",
+        "CT",
+        "US-CT"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/New_York",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "DE",
+      "name": "特拉华州",
+      "aliases": [
+        "Delaware",
+        "DE",
+        "US-DE"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/New_York",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "GA",
+      "name": "佐治亚州",
+      "aliases": [
+        "Georgia",
+        "GA",
+        "US-GA"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/New_York",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "IA",
+      "name": "艾奥瓦州",
+      "aliases": [
+        "Iowa",
+        "IA",
+        "US-IA"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Chicago",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "IL",
+      "name": "伊利诺伊州",
+      "aliases": [
+        "Illinois",
+        "IL",
+        "US-IL"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Chicago",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "LA",
+      "name": "路易斯安那州",
+      "aliases": [
+        "Louisiana",
+        "LA",
+        "US-LA"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Chicago",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "MA",
+      "name": "马萨诸塞州",
+      "aliases": [
+        "Massachusetts",
+        "MA",
+        "US-MA",
+        "波士顿",
+        "Boston"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/New_York",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "MD",
+      "name": "马里兰州",
+      "aliases": [
+        "Maryland",
+        "MD",
+        "US-MD"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/New_York",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "ME",
+      "name": "缅因州",
+      "aliases": [
+        "Maine",
+        "ME",
+        "US-ME"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/New_York",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "MN",
+      "name": "明尼苏达州",
+      "aliases": [
+        "Minnesota",
+        "MN",
+        "US-MN"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Chicago",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "MO",
+      "name": "密苏里州",
+      "aliases": [
+        "Missouri",
+        "MO",
+        "US-MO"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Chicago",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "MS",
+      "name": "密西西比州",
+      "aliases": [
+        "Mississippi",
+        "MS",
+        "US-MS"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Chicago",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "MT",
+      "name": "蒙大拿州",
+      "aliases": [
+        "Montana",
+        "MT",
+        "US-MT"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Denver",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "NC",
+      "name": "北卡罗来纳州",
+      "aliases": [
+        "North Carolina",
+        "NC",
+        "US-NC"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/New_York",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "NH",
+      "name": "新罕布什尔州",
+      "aliases": [
+        "New Hampshire",
+        "NH",
+        "US-NH"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/New_York",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "NJ",
+      "name": "新泽西州",
+      "aliases": [
+        "New Jersey",
+        "NJ",
+        "US-NJ"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/New_York",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "NM",
+      "name": "新墨西哥州",
+      "aliases": [
+        "New Mexico",
+        "NM",
+        "US-NM"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Denver",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "NY",
+      "name": "纽约州",
+      "aliases": [
+        "New York",
+        "NY",
+        "US-NY",
+        "纽约",
+        "New York City"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/New_York",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "OH",
+      "name": "俄亥俄州",
+      "aliases": [
+        "Ohio",
+        "OH",
+        "US-OH"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/New_York",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "OK",
+      "name": "俄克拉荷马州",
+      "aliases": [
+        "Oklahoma",
+        "OK",
+        "US-OK"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Chicago",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "PA",
+      "name": "宾夕法尼亚州",
+      "aliases": [
+        "Pennsylvania",
+        "PA",
+        "US-PA"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/New_York",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "RI",
+      "name": "罗得岛州",
+      "aliases": [
+        "Rhode Island",
+        "RI",
+        "US-RI"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/New_York",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "SC",
+      "name": "南卡罗来纳州",
+      "aliases": [
+        "South Carolina",
+        "SC",
+        "US-SC"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/New_York",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "UT",
+      "name": "犹他州",
+      "aliases": [
+        "Utah",
+        "UT",
+        "US-UT"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Denver",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "VA",
+      "name": "弗吉尼亚州",
+      "aliases": [
+        "Virginia",
+        "VA",
+        "US-VA",
+        "弗吉尼亚",
+        "佛吉尼亚",
+        "佛吉尼亚州",
+        "维吉尼亚",
+        "维吉尼亚州",
+        "Virginia",
+        "里士满",
+        "Richmond",
+        "阿什本",
+        "Ashburn",
+        "阿灵顿",
+        "Arlington"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/New_York",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "VT",
+      "name": "佛蒙特州",
+      "aliases": [
+        "Vermont",
+        "VT",
+        "US-VT"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/New_York",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "WA",
+      "name": "华盛顿州",
+      "aliases": [
+        "Washington",
+        "WA",
+        "US-WA",
+        "西雅图",
+        "Seattle",
+        "华盛顿"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Los_Angeles",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "WI",
+      "name": "威斯康星州",
+      "aliases": [
+        "Wisconsin",
+        "WI",
+        "US-WI"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Chicago",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "WV",
+      "name": "西弗吉尼亚州",
+      "aliases": [
+        "West Virginia",
+        "WV",
+        "US-WV"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/New_York",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "WY",
+      "name": "怀俄明州",
+      "aliases": [
+        "Wyoming",
+        "WY",
+        "US-WY"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Denver",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "AK",
+      "name": "阿拉斯加州",
+      "aliases": [
+        "Alaska",
+        "AK",
+        "US-AK"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Anchorage",
+          "description": "大部分地区"
+        },
+        {
+          "timeZone": "America/Juneau",
+          "description": "朱诺地区"
+        },
+        {
+          "timeZone": "America/Sitka",
+          "description": "锡特卡地区"
+        },
+        {
+          "timeZone": "America/Metlakatla",
+          "description": "安妮特岛"
+        },
+        {
+          "timeZone": "America/Yakutat",
+          "description": "亚库塔特地区"
+        },
+        {
+          "timeZone": "America/Nome",
+          "description": "西部地区"
+        },
+        {
+          "timeZone": "America/Adak",
+          "description": "阿留申群岛西部"
+        }
+      ]
+    },
+    {
+      "code": "AZ",
+      "name": "亚利桑那州",
+      "aliases": [
+        "Arizona",
+        "AZ",
+        "US-AZ"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Phoenix",
+          "description": "大部分地区，不实行夏令时"
+        },
+        {
+          "timeZone": "America/Denver",
+          "description": "纳瓦霍地区，实行夏令时"
+        }
+      ]
+    },
+    {
+      "code": "FL",
+      "name": "佛罗里达州",
+      "aliases": [
+        "Florida",
+        "FL",
+        "US-FL"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/New_York",
+          "description": "大部分地区，包括迈阿密、奥兰多"
+        },
+        {
+          "timeZone": "America/Chicago",
+          "description": "西部狭长地带，包括彭萨科拉"
+        }
+      ]
+    },
+    {
+      "code": "HI",
+      "name": "夏威夷州",
+      "aliases": [
+        "Hawaii",
+        "HI",
+        "US-HI"
+      ],
+      "areas": [
+        {
+          "timeZone": "Pacific/Honolulu",
+          "description": "全州"
+        }
+      ]
+    },
+    {
+      "code": "ID",
+      "name": "爱达荷州",
+      "aliases": [
+        "Idaho",
+        "ID",
+        "US-ID"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Boise",
+          "description": "南部，包括博伊西"
+        },
+        {
+          "timeZone": "America/Los_Angeles",
+          "description": "北部地区"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "name": "印第安纳州",
+      "aliases": [
+        "Indiana",
+        "IN",
+        "US-IN"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Indiana/Indianapolis",
+          "description": "大部分地区，包括印第安纳波利斯"
+        },
+        {
+          "timeZone": "America/Indiana/Vincennes",
+          "description": "戴维斯、杜波伊斯、诺克斯、马丁县"
+        },
+        {
+          "timeZone": "America/Indiana/Winamac",
+          "description": "普拉斯基县"
+        },
+        {
+          "timeZone": "America/Indiana/Marengo",
+          "description": "克劳福德县"
+        },
+        {
+          "timeZone": "America/Indiana/Petersburg",
+          "description": "派克县"
+        },
+        {
+          "timeZone": "America/Indiana/Vevay",
+          "description": "斯威策兰县"
+        },
+        {
+          "timeZone": "America/Indiana/Knox",
+          "description": "斯塔克县"
+        },
+        {
+          "timeZone": "America/Indiana/Tell_City",
+          "description": "佩里县"
+        },
+        {
+          "timeZone": "America/Chicago",
+          "description": "西北部及西南部部分县，例如莱克县"
+        }
+      ]
+    },
+    {
+      "code": "KS",
+      "name": "堪萨斯州",
+      "aliases": [
+        "Kansas",
+        "KS",
+        "US-KS"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Chicago",
+          "description": "大部分地区"
+        },
+        {
+          "timeZone": "America/Denver",
+          "description": "西部部分县"
+        }
+      ]
+    },
+    {
+      "code": "KY",
+      "name": "肯塔基州",
+      "aliases": [
+        "Kentucky",
+        "KY",
+        "US-KY"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Kentucky/Louisville",
+          "description": "东部，包括路易斯维尔"
+        },
+        {
+          "timeZone": "America/Kentucky/Monticello",
+          "description": "韦恩县"
+        },
+        {
+          "timeZone": "America/Chicago",
+          "description": "西部地区"
+        }
+      ]
+    },
+    {
+      "code": "MI",
+      "name": "密歇根州",
+      "aliases": [
+        "Michigan",
+        "MI",
+        "US-MI"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Detroit",
+          "description": "大部分地区，包括底特律"
+        },
+        {
+          "timeZone": "America/Menominee",
+          "description": "上半岛靠威斯康星州的部分县"
+        }
+      ]
+    },
+    {
+      "code": "ND",
+      "name": "北达科他州",
+      "aliases": [
+        "North Dakota",
+        "ND",
+        "US-ND"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Chicago",
+          "description": "大部分地区"
+        },
+        {
+          "timeZone": "America/North_Dakota/Center",
+          "description": "奥利弗县"
+        },
+        {
+          "timeZone": "America/North_Dakota/New_Salem",
+          "description": "莫顿县乡村地区"
+        },
+        {
+          "timeZone": "America/North_Dakota/Beulah",
+          "description": "默瑟县"
+        },
+        {
+          "timeZone": "America/Denver",
+          "description": "西南部部分地区"
+        }
+      ]
+    },
+    {
+      "code": "NE",
+      "name": "内布拉斯加州",
+      "aliases": [
+        "Nebraska",
+        "NE",
+        "US-NE"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Chicago",
+          "description": "东部和中部地区"
+        },
+        {
+          "timeZone": "America/Denver",
+          "description": "西部地区"
+        }
+      ]
+    },
+    {
+      "code": "NV",
+      "name": "内华达州",
+      "aliases": [
+        "Nevada",
+        "NV",
+        "US-NV"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Los_Angeles",
+          "description": "大部分地区，包括拉斯维加斯"
+        },
+        {
+          "timeZone": "America/Denver",
+          "description": "西温多弗"
+        }
+      ]
+    },
+    {
+      "code": "OR",
+      "name": "俄勒冈州",
+      "aliases": [
+        "Oregon",
+        "OR",
+        "US-OR"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Los_Angeles",
+          "description": "大部分地区，包括波特兰"
+        },
+        {
+          "timeZone": "America/Boise",
+          "description": "东部马卢尔县部分地区"
+        }
+      ]
+    },
+    {
+      "code": "SD",
+      "name": "南达科他州",
+      "aliases": [
+        "South Dakota",
+        "SD",
+        "US-SD"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Chicago",
+          "description": "东部地区"
+        },
+        {
+          "timeZone": "America/Denver",
+          "description": "西部地区"
+        }
+      ]
+    },
+    {
+      "code": "TN",
+      "name": "田纳西州",
+      "aliases": [
+        "Tennessee",
+        "TN",
+        "US-TN"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Chicago",
+          "description": "中部与西部，包括纳什维尔、孟菲斯"
+        },
+        {
+          "timeZone": "America/New_York",
+          "description": "东部，包括诺克斯维尔"
+        }
+      ]
+    },
+    {
+      "code": "TX",
+      "name": "得克萨斯州",
+      "aliases": [
+        "Texas",
+        "TX",
+        "US-TX",
+        "德克萨斯州",
+        "德州"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/Chicago",
+          "description": "大部分地区，包括达拉斯、休斯敦、奥斯汀",
+          "aliases": [
+            "Dallas",
+            "达拉斯",
+            "Austin",
+            "奥斯汀",
+            "Houston",
+            "休斯敦",
+            "Arlington",
+            "阿灵顿"
+          ]
+        },
+        {
+          "timeZone": "America/Denver",
+          "description": "西部，包括埃尔帕索和哈得斯佩斯县",
+          "aliases": [
+            "El Paso",
+            "埃尔帕索"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "DC",
+      "name": "哥伦比亚特区",
+      "aliases": [
+        "District of Columbia",
+        "DC",
+        "US-DC",
+        "华盛顿",
+        "Washington DC",
+        "Washington D.C.",
+        "Washington"
+      ],
+      "areas": [
+        {
+          "timeZone": "America/New_York",
+          "description": "华盛顿首都所在时区"
+        }
+      ]
+    }
+  ]
+}

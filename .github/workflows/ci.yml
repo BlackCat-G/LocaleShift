@@ -1,0 +1,32 @@
+name: macOS checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: checks-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test-and-build:
+    name: Test and build on macOS
+    runs-on: macos-26
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Toolchain
+        run: |
+          swift --version
+          python3 --version
+      - name: Isolated tests
+        run: ./scripts/test.sh
+      - name: Build read-only app
+        run: python3 scripts/build_app.py --configuration release --output build/ci/LocaleShift.app
+      - name: Verify ad-hoc package
+        run: codesign --verify --deep --strict build/ci/LocaleShift.app

@@ -1,0 +1,44 @@
+# Build products and local app installations
+.build/
+.build-*/
+build/
+dist/
+.swiftpm/
+*.xcodeproj/xcuserdata/
+.DS_Store
+
+# Private machine experiments, diagnostic exports and historical work notes
+.validation/
+docs/feasibility/
+docs/validation/
+docs/design/
+docs/superpowers/
+docs/local-development.md
+docs/development-signing.md
+/PRD.md
+/FEASIBILITY.md
+/CORE-VALIDATION.md
+/DEVELOPMENT-VALIDATION.md
+/:-
+
+# Only the current app artwork is needed to build from source
+/assets/branding/*
+!/assets/branding/AppIcon.icns
+!/assets/branding/localeshift-time-language-v7.png
+!/assets/branding/localeshift-menubar-v7.png
+
+# Local credentials, signing material and runtime state
+.env
+.env.*
+!.env.example
+*.p12
+*.pfx
+*.mobileprovision
+*.provisionprofile
+*.keychain
+*.keychain-db
+*.pem
+*.key
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
